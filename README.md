@@ -14,7 +14,7 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
 -->
 
  <div>
-  <a href="https://github.com/mylenalena">
+  <a href="https://github.com/mylenavitoriano">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mylenavitoriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenavitoriano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -30,8 +30,8 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
   
   ##
 <div>
-  <!--<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
+  <a href="https://instagram.com/mylena_vitoriano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<!--<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
  <a href="https://www.linkedin.com/in/mylenavitoriano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:mylenabarbosa08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
