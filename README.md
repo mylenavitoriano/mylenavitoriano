@@ -1,7 +1,7 @@
 ### Olá ^^
 Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programação Web e Mobile.
 
-- 🌱 Aualmente estou aprendendo Java e JavaScript.
+- 🌱 Aualmente estou aprendendo Java, PHP e JavaScript.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
