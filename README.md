@@ -1,5 +1,5 @@
 ### Olá ^^
-Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programação Web e Mobile.
+Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programação Web.
 
 - 🌱 Aualmente estou aprendendo PHP, JavaScript, frameworks jQuery e Vue.js.
 - 🔭 Hoje trabalho com back-end e um pouco de front-end.
