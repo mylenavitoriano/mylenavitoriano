@@ -1,11 +1,12 @@
 Olá ^^
+<br>
 Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programação Web.
 
 - 🌱 Aualmente estou aprendendo PHP, JavaScript, frameworks jQuery e Vue.js.
 - 🔭 Hoje trabalho com back-end e um pouco de front-end.
 - 💬 Pergunte-me sobre o que precisar.
 
-<br><br>
+<br>
 
  <a href="https://www.instagram.com/mylena_vitoriano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/mylenavitoriano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
