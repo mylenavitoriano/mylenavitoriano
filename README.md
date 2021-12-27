@@ -25,6 +25,8 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
 
 <br>
 
+##
+
  <div align=center>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mylenavitoriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenavitoriano&layout=compact&langs_count=7&theme=dracula"/>
@@ -44,8 +46,6 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
   <!--https://devicon.dev/-->
  </div>
 
-  
-  ##
 <div align=center>
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/mylenavitoriano/mylenavitoriano/output/github-contribution-grid-snake.svg)
