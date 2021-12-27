@@ -22,9 +22,6 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br>
-
 ##
 
  <div align=center>
