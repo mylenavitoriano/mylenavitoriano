@@ -15,11 +15,11 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
 - ⚡ Fun fact: ...
 -->
 
- <div>
+ <div align=center>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mylenavitoriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenavitoriano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div>
+
  <div style="display: inline_block"><br>
    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -27,13 +27,13 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
    <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
    <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
+ 
    <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
    <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 
   <!--https://devicon.dev/-->
  </div>
-</div>
+
   
   ##
 <div>
