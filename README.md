@@ -43,4 +43,4 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/mylenavitoriano/mylenavitoriano/output/github-contribution-grid-snake.svg)
    
-</div
+ </div>
