@@ -2,7 +2,8 @@ Olá ^^
 <br>
 Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programação Web.
 
-- 🌱 Aualmente estou aprendendo PHP, JavaScript, frameworks jQuery e Vue.js.
+- 🎓 Cursando superior em Análise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital
+- 🌱 Aualmente estou aprendendo PHP, JavaScript, TypeScript, ReactJS.
 - 🔭 Hoje trabalho como full-stack.
 - 💬 Pergunte-me sobre o que precisar.
 
