@@ -4,7 +4,7 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
 
 - 🎓 Cursando superior em Análise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital
 - 🌱 Aualmente estou aprendendo JavaScript, ReactJS, NextJS.
-- 🔭 Hoje trabalho como full-stack.
+- 🔭 Hoje trabalho com desenvolvimento Front-end.
 - 💬 Pergunte-me sobre o que precisar.
 
 <div><br>
@@ -43,12 +43,10 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
  
    <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
    <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="center" height="60" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
    <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
  
    <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-
-
+  
   <!--https://devicon.dev/-->
  </div>
 
