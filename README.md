@@ -25,10 +25,10 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
 -->
 ##
 
- <div align=center>
+<!--  <div align=center>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mylenavitoriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenavitoriano&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
 
  <div align=center><br>
    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
