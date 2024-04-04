@@ -23,7 +23,6 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##
 
 <!--  <div align=center>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mylenavitoriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
