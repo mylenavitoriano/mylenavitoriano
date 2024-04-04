@@ -30,6 +30,7 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenavitoriano&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
 
+<!--
  <div align=center><br>
    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -45,8 +46,8 @@ Sou técnica em Desenvolvimento de Sistemas, meu estudo é focado em programaç�
  
    <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   
-  <!--https://devicon.dev/-->
- </div>
+  https://devicon.dev/
+ </div> -->
 
 <div align=center>
  
