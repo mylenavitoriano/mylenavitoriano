@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**mylenavitoriano/mylenavitoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedora Front-end com foco em aplicações web e mobile utilizando React, React Native, Next.js e TypeScript.
 
-Here are some ideas to get you started:
+Atualmente atuo no desenvolvimento de produtos digitais em ambiente de startup, criando interfaces modernas, responsivas e centradas na experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- React
+- React Native
+- Next.js
+- TypeScript
+- TanStack Query
+- Tailwind CSS
+- Styled-components
+
+## 📚 Atualmente estudando
+
+- Arquitetura Front-end
+- Performance em aplicações React
+- Testes automatizados
+- React Native avançado
+
+## 💻 Contato
+
+- LinkedIn: linkedin.com/in/mylenavitoriano
+- Email: mylenabarbosa08@gmail.com
